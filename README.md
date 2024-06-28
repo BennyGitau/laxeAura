@@ -1,4 +1,4 @@
-# Beauty Products 
+# LaxeAura 
 
 Welcome to our Beauty Products Website! This web application offers a wide range of beauty products with various functionalities to enhance your shopping experience.
 
