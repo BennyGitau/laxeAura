@@ -1,0 +1,468 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "category": "Bags",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZFu7xWSZS28VjmfXQbr148SmktMnMCAQPg2go8ujkDGbFGV1e0N675uDJiFCWH4JVUU&usqp=CAU",
+      "title": "Von Dutch - Spring Collection",
+      "description": "A cult favorite since the '90s, the Von Dutch Bag is instantly recognizable by its sleek silhouette and iconic FF logo hardware. Crafted from luxurious materials like leather and velvet, it adds a touch of Italian glamour to any ensemble.",
+      "price": 8000,
+      "isNew": false,
+      "oldPrice": 10000
+    },
+    {
+      "id": "2",
+      "category": "Perfumes",
+      "image": "https://puls-img.chanel.com/1702051860451-ccm24mbfooterwrappingdjpg.jpg",
+      "title": "Coco Chanel",
+      "description": " A contemporary twist on a classic fragrance family, this modern chypre features a sophisticated blend of patchouli, oakmoss, and citrus accords. Elegant and refined, it's the perfect choice for those who appreciate timeless sophistication with a contemporary edge.",
+      "price": 6900,
+      "isNew": true,
+      "oldPrice": 7500
+    },
+    {
+      "id": "3",
+      "category": "Shoes",
+      "image": "https://assetsprx.matchesfashion.com/img/1519077/4/1300.jpg",
+      "title": "Prada Milano Wedge Heels",
+      "description": "Make a statement with these edgy cutout booties, featuring a peep-toe design and a stacked block heel. With their unique silhouette and modern aesthetic, they're sure to turn heads wherever you go.",
+      "price": 4500,
+      "isNew": true,
+      "oldPrice": 6600
+    },
+    {
+      "id": "40",
+      "category": "Jewelry",
+      "image": "https://a.1stdibscdn.com/victorian-scottish-agate-and-gold-locket-bracelet-for-sale/1121189/j_96094921591203255923/9609492_master.jpg",
+      "title": "Victorian Scottish Agate and Gold Locket Bracelet",
+      "description": "Tell your story with a charm bracelet adorned with meaningful charms and symbols that reflect your personal style and experiences.",
+      "price": 3100,
+      "isNew": false,
+      "oldPrice": 4000
+    },
+    {
+      "id": "4",
+      "category": "Bags",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/vintage-birkin-65f442ee4af59.jpg",
+      "title": " Cherry Red Birkin Bag",
+      "description": "Edgy and urban, the  Cherry Red Birkin Bag is crafted from soft lambskin leather and features signature moto-inspired details like studs and buckles. With its slouchy silhouette and spacious interior, it's the ultimate It-bag for the modern woman.",
+      "price": 6000,
+      "isNew": true,
+      "oldPrice": 6700
+    },
+    {
+      "id": "5",
+      "category": "Shoes",
+      "image": "https://reemscloset.com/cdn/shop/products/pre-loved-chanel-bow-cream-w-black-cap-toe-pumps-340006.jpg?v=1697300149&width=1445",
+      "title": "Chanel Coquette Black Pumps",
+      "description": "Add a touch of sparkle to your everyday look with these embellished ballet flats. Adorned with shimmering crystals and metallic accents, they strike the perfect balance between comfort and elegance.",
+      "price": 5000,
+      "isNew": false,
+      "oldPrice": 6200
+    },
+    {
+      "id": "6",
+      "category": "Jewelry",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/jylvde80/watch/a/f/q/combo-pack-2-new-diamond-studded-part-wedding-adition-analog-original-imafg2wqxzzwzzzt.jpeg?q=20&crop=false",
+      "title": "Italian Watches",
+      "description": " Add a touch of sparkle to your wrist with this crystal bracelet, featuring shimmering stones set in a dainty chain.",
+      "price": 2000,
+      "isNew": true,
+      "oldPrice": 3500
+    },
+    {
+      "id": "7",
+      "category": "Perfumes",
+      "image": "https://i5.walmartimages.com/seo/MISS-DIOR-3-4-EDT-SP_16382cdc-4060-4355-a895-76f1f4f4ae5f.36a0312552de085dbecd19299690c443.jpeg",
+      "title": "Miss Dior by DIOR",
+      "description": "An opulent blend of exotic spices, precious woods, and sensual florals creates a captivating oriental fragrance. Rich and mysterious, it exudes an air of luxury and intrigue, perfect for evening affairs.",
+      "price": 5200,
+      "isNew": true,
+      "oldPrice": 6500
+    },
+    {
+      "id": "8",
+      "category": "Bags",
+      "image": "https://static.thcdn.com/productimg/960/960/15025431-1725131306891140.jpg",
+      "title": "Vivienne Westwood Heart Shaped Shoulder Bag",
+      "description": "Crafted from eco-friendly materials like recycled polyester, this statement bag features the iconic Orb logo in gold-tone hardware. With its edgy design and spacious interior, it's perfect for adding a dose of attitude to any outfit.",
+      "price": 27000,
+      "isNew": false,
+      "oldPrice": 35000
+    },
+    {
+      "id": "9",
+      "category": "Jewelry",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230630/AIpm/649e8532a9b42d15c92c69ea/-473Wx593H-466280800-rosegold-MODEL.jpg",
+      "title": "Heart Shape Stud Earrings",
+      "description": "Classic and feminine, these pearl drop earrings exude vintage charm and timeless elegance.",
+      "price": 2200,
+      "isNew": false,
+      "oldPrice": 3000
+    },
+    {
+      "id": "10",
+      "category": "Perfumes",
+      "image": "https://www.prada-beauty.com/dw/image/v2/AAFM_PRD/on/demandware.static/-/Sites-prada-master-catalog/default/dw9ac56643/fragrance/women/MPL01610/Prada-Fragrance-Paradoxe-3614273760164-90ml-Packshot-Front-NoShadow.jpg",
+      "title": "Prada Paradoxe Eau de Parfum curated on LTK",
+      "description": "A lush bouquet of green leaves, herbs, and dewy grasses evokes the serenity of a verdant garden after a summer rain. Fresh and revitalizing, it brings the outdoors in, uplifting the spirits and rejuvenating the soul.",
+      "price": 4800,
+      "isNew": false,
+      "oldPrice": 5500
+    },
+    {
+      "id": "11",
+      "category": "Shoes",
+      "image": "https://www.downtherabbitholemn.com/cdn/shop/files/PhotoRoom_20230602_144900.jpg?v=1685743844",
+      "title": "Vivienne Westwood Heels",
+      "description": "Step out in style with these versatile suede ankle boots, featuring a stacked heel and a sleek almond toe. Pair them with jeans for a casual weekend look or dress them up with a skirt for a night out on the town.",
+      "price": 3600,
+      "isNew": false,
+      "oldPrice": 4500
+    },
+    {
+      "id": "12",
+      "category": "Bags",
+      "image": "https://static.thcdn.com/productimg/960/960/14925189-1795098610615121.jpg",
+      "title": "Vivienne Westwood",
+      "description": "Crafted from faux snake-printed leather, this eye-catching bag features a playful frill detail and the brand's iconic Orb logo in silver-tone hardware. With its vibrant colors and distinctive design, it's the perfect accessory for fashion-forward individuals looking to stand out from the crowd.",
+      "price": 19000,
+      "isNew": false,
+      "oldPrice": 21000
+    },
+    {
+      "id": "13",
+      "category": "Shoes",
+      "image": "https://i.ebayimg.com/images/g/XCcAAOSwx~hkdViM/s-l1600.jpg",
+      "title": "Gucci Black Bee Pumps",
+      "description": "Elevate your wardrobe with these timeless black pumps crafted from supple leather. Featuring a sleek silhouette and a pointed toe, they effortlessly transition from day to night with sophisticated style.",
+      "price": 4900,
+      "isNew": true,
+      "oldPrice": 6000
+    },
+    {
+      "id": "14",
+      "category": "Perfumes",
+      "image": "https://pics.walgreens.com/prodimg/639107/900.jpg",
+      "title": "Thank You Next by Ariana Grande",
+      "description": "Delicate floral notes of iris and violet are enveloped in a powdery veil of musk and vanilla, creating a soft and comforting scent reminiscent of freshly-powdered skin. Subtle yet alluring, it's perfect for everyday wear.",
+      "price": 9900,
+      "isNew": false,
+      "oldPrice": 11000
+    },
+    {
+      "id": "15",
+      "category": "Jewelry",
+      "image": "https://www.francisandgaye.co.uk/images/vivienne-westwood-ladies-purple-crystal-francette-bracelet-p38257-58743_image.jpg",
+      "title": "Vivienne Westwood Charm Bracelet",
+      "description": " Modern and sophisticated, this rose gold bangle adds a subtle hint of color and elegance to any outfit.",
+      "price": 1600,
+      "isNew": false,
+      "oldPrice": 2500
+    },
+    {
+      "id": "16",
+      "category": "Bags",
+      "image": "https://img.mytheresa.com/1094/1238/100/jpeg/catalog/product/1e/P00815273_d1.jpg",
+      "title": "Vivienne Westwood",
+      "description": "Crafted from smooth leather and adorned with the brand's signature Orb emblem, this structured bag features a top handle and detachable shoulder strap for versatile wear. With its elegant design and impeccable craftsmanship, it's the epitome of British luxury.",
+      "price": 17000,
+      "isNew": false,
+      "oldPrice": 20000
+    },
+    {
+      "id": "17",
+      "category": "Jewelry",
+      "image": "https://i5.walmartimages.com/asr/e4a93b51-e65a-4bda-8d83-094c842d08d5.1f55d9a1f78a3f8e35b5712f8b099606.jpeg?",
+      "title": "Clover Bracelet",
+      "description": "Add a touch of sparkle to your wrist with this crystal bracelet, featuring shimmering stones set in a dainty chain.",
+      "price": 1900,
+      "isNew": false,
+      "oldPrice": 2300
+    },
+    {
+      "id": "18",
+      "category": "Perfumes",
+      "image": "https://shop-beauty.dior.qa/cdn/shop/products/Y0083424_F008344409_E01_GHC_1850x.jpg?v=1589891819",
+      "title": "Hypnotic Poison - DIOR",
+      "description": "Warm and inviting, this fragrance features rich woody accords of sandalwood and cedarwood, balanced by spicy notes of black pepper and nutmeg. Ideal for confident individuals who appreciate a touch of sophistication.",
+      "price": 8200,
+      "isNew": false,
+      "oldPrice": 9000
+    },
+    {
+      "id": "19",
+      "category": "Shoes",
+      "image": "https://footwearnews.com/wp-content/uploads/2015/10/dolce-gabbana-spring-2016-shoes-1.jpg",
+      "title": "Dolce and Gabbana Spring Collection",
+      "description": "Make a statement with these chic strappy sandal heels, adorned with delicate straps and a sky-high stiletto heel. Perfect for summer soirées or special occasions, they add a touch of glamour to any ensemble.",
+      "price": 4200,
+      "isNew": false,
+      "oldPrice": 4500
+    },
+    {
+      "id": "20",
+      "category": "Bags",
+      "image": "https://cdn.shopify.com/s/files/1/0592/8750/3020/products/A3187741-A85A-4C97-9455-7FE76C76A189-Recovered.jpg",
+      "title": "Pink Dior",
+      "description": "Inspired by equestrian design, the Dior Saddle Bag is a statement piece that exudes effortless cool. Crafted from smooth calfskin leather and adorned with the brand's signature 'CD' logo, it's a must-have for fashion-forward individuals.",
+      "price": 18000,
+      "isNew": true,
+      "oldPrice": 20200
+    },
+    {
+      "id": "21",
+      "category": "Perfumes",
+      "image": "https://fnf.co.ke/wp-content/uploads/Versace-Bright-Crystal-Perfume-90ml.jpg",
+      "title": "Versace Bright Crystal",
+      "description": "Indulge in the intoxicating aroma of creamy vanilla, blended with hints of amber and tonka bean. This comforting fragrance wraps you in a warm embrace, leaving a lingering trail of sweetness wherever you go.",
+      "price": 4300,
+      "isNew": false,
+      "oldPrice": 4800
+    },
+    {
+      "id": "22",
+      "category": "Shoes",
+      "image": "https://i.ebayimg.com/images/g/htkAAOSwuOpbXGlv/s-l1600.jpg",
+      "title": "Cherry Red Pumps",
+      "description": "Add a touch of vintage-inspired glamour to your look with these velvet Mary Jane pumps, featuring a round toe and a chunky block heel. With their rich texture and feminine silhouette, they're a stylish choice for any occasion.",
+      "price": 3800,
+      "isNew": false,
+      "oldPrice": 4000
+    },
+    {
+      "id": "23",
+      "category": "Jewelry",
+      "image": "https://www.utopia-jewels.com/wp-content/uploads/2021/12/MIRO-768x768.jpg",
+      "title": "Miro Mantisimo Pearls",
+      "description": "Make a statement with this gemstone pendant necklace, featuring a vibrant stone set in a delicate gold or silver setting.",
+      "price": 3000,
+      "isNew": true,
+      "oldPrice": 4500
+    },
+    {
+      "id": "24",
+      "category": "Bags",
+      "image": "https://img.mytheresa.com/1094/1238/100/jpeg/catalog/product/86/P00815275.jpg",
+      "title": "Vivienne Westwood",
+      "description": "Vivienne Westwood is a timeless classic with a modern twist. Crafted from smooth leather and adorned with the brand's signature Orb emblem, this structured bag features a top handle and detachable shoulder strap for versatile wear. With its elegant design and impeccable craftsmanship, it's the epitome of British luxury.",
+      "price": 5300,
+      "isNew": false,
+      "oldPrice": 6100
+    },
+    {
+      "id": "25",
+      "category": "Perfumes",
+      "image": "https://i.etsystatic.com/21728755/r/il/956886/3727494253/il_fullxfull.3727494253_4vdy.jpg",
+      "title": "Vivienne Westwood perfume",
+      "description": "Bursting with ripe fruits such as peach, pear, and raspberry, this fragrance is a sweet and juicy treat for the senses. Playful and vibrant, it adds a playful touch to any ensemble.",
+      "price": 5200,
+      "isNew": false,
+      "oldPrice": 6100
+    },
+    {
+      "id": "26",
+      "category": "Jewelry",
+      "image": "https://www.viviennewestwood.com/dw/image/v2/BJGV_PRD/on/demandware.static/-/Sites-viviennewestwood-master-catalog/default/dw9aa33766/images/63010100-02P104-CN_PLATINUM-CREAM-Pearl-CRYSTAL_1_large.jpg?sw=570&sh=758&sm=fit&q=80",
+      "title": "Vivienne Westwood La Perla",
+      "description": "Elevate your look with a bold statement necklace featuring oversized beads, intricate detailing, or eye-catching motifs.",
+      "price": 3800,
+      "isNew": false,
+      "oldPrice": 4500
+    },
+    {
+      "id": "27",
+      "category": "Shoes",
+      "image": "https://www.dior.com/couture/ecommerce/media/catalog/product/7/3/1617793846_KDP909CCF_S900_E02_GH.jpg",
+      "title": "Black Ghoul by DIOR",
+      "description": "Channel retro-inspired glamour with these pointed toe slingbacks, crafted from luxurious satin and embellished with a crystal buckle detail. Whether paired with a cocktail dress or tailored trousers, they exude elegance and charm.",
+      "price": 6300,
+      "isNew": true,
+      "oldPrice": 7500
+    },
+    {
+      "id": "28",
+      "category": "Bags",
+      "image": "https://a.1stdibscdn.com/s-s-2005-versace-by-donatella-micro-mini-ocean-themed-duffle-bag-for-sale/v_23882/v_139673121638114949766/v_13967312_1638114950127_bg_processed.jpg",
+      "title": "Versace",
+      "description": "Versatile and spacious, the Gianni Versace Evening Bag is a must-have tote for everyday use. Crafted from the brand's signature Monogram canvas, it features leather trim, adjustable side straps, and a roomy interior that can hold all your essentials.",
+      "price": 23000,
+      "isNew": false,
+      "oldPrice": 24000
+    },
+    {
+      "id": "29",
+      "category": "Perfumes",
+      "image": "https://arabicperfume.lt/wp-content/uploads/2022/12/yara-2-d706691472afa743a42526054fa9f4ff.jpg",
+      "title": "Yara lattafa Arabia",
+      "description": "A delicate blend of jasmine, rose, and lily of the valley creates a captivating floral bouquet, complemented by notes of bergamot and musk. This fragrance evokes a sense of timeless elegance and femininity.",
+      "price": 2500,
+      "isNew": false,
+      "oldPrice": 3200
+    },
+    {
+      "id": "30",
+      "category": "Shoes",
+      "image": "https://www.lestyle.com.au/wp-content/uploads/2018/11/Versace_Palazzo_Stack_Pumps_LightGoldMedusa.jpg",
+      "title": "Versace",
+      "description": "Embrace laid-back luxury with these lace-up espadrilles, featuring a jute-wrapped platform sole and soft suede straps. Perfect for summer days spent by the beach or exploring the city streets.",
+      "price": 5000,
+      "isNew": false,
+      "oldPrice": 6000
+    },
+    {
+      "id": "31",
+      "category": "Jewelry",
+      "image": "https://i.etsystatic.com/28637333/r/il/9f1725/4964460251/il_570xN.4964460251_sk73.jpg",
+      "title": "Vivienne Westwood Ring",
+      "description": "Add a touch of old-world glamour to your ensemble with a vintage ring featuring intricate filigree work and sparkling gemstones.",
+      "price": 2300,
+      "isNew": false,
+      "oldPrice": 2800
+    },
+    {
+      "id": "32",
+      "category": "Shoes",
+      "image": "https://i.pinimg.com/736x/c5/6c/e2/c56ce2f784dcd0b8e5da741d9a14a7b6.jpg",
+      "title": "Miu Miu Classic Devil Pumps",
+      "description": "Make a statement with these animal print heeled boots, featuring a bold leopard print pattern and a slim stiletto heel. Perfect for adding a touch of drama to your look, they're a must-have for fashion-forward women.",
+      "price": 3900,
+      "isNew": false,
+      "oldPrice": 4400
+    },
+    {
+      "id": "33",
+      "category": "Jewelry",
+      "image": "https://www.viviennewestwood.com/dw/image/v2/BJGV_PRD/on/demandware.static/-/Sites-viviennewestwood-master-catalog/default/dw1ce8ea00/images/6301011O-02P378-CN_1_large.jpg",
+      "title": "Pearls by Vivienne Westwood",
+      "description": " A versatile essential, this gold chain necklace can be worn alone for a minimalist look or layered with other pieces for added flair.",
+      "price": 3000,
+      "isNew": false,
+      "oldPrice": 3900
+    },
+    {
+      "id": "34",
+      "category": "Bags",
+      "image": "https://s.turbifycdn.com/aah/movadobaby/hermes-birkin-bag-35-togo-black-women-s-handbag-69.jpg",
+      "title": "Hermès Birkin-Jane Birkin inspired",
+      "description": "Coveted by fashionistas worldwide, the Hermès Birkin is the epitome of luxury. Handcrafted from the finest leather and adorned with the brand's signature palladium hardware, it exudes timeless elegance and status.",
+      "price": 13000,
+      "isNew": false,
+      "oldPrice": 14000
+    },
+    {
+      "id": "35",
+      "category": "Perfumes",
+      "image": "https://capitalbeeco.com/cdn/shop/products/lollia-always-in-rose-perfume.jpg?v=1661954455",
+      "title": "Lollia",
+      "description": "Inspired by the sea, this fragrance captures the essence of a coastal getaway with notes of marine accord, sea salt, and driftwood. Fresh and invigorating, it transports you to sun-kissed shores and endless horizons.",
+      "price": 3900,
+      "isNew": false,
+      "oldPrice": 4400
+    },
+    {
+      "id": "36",
+      "category": "Perfumes",
+      "image": "https://shopandbeyondlb.com/cdn/shop/files/DG2-3.webp?v=1708035280&width=1946",
+      "title": "The Only One by Dolce and Gabbana",
+      "description": "A refreshing burst of citrus notes, including lemon, orange, and grapefruit, invigorates the senses and brightens the mood. Perfect for those seeking a revitalizing and uplifting scent for everyday wear.",
+      "price": 4800,
+      "isNew": false,
+      "oldPrice": 5300
+    },
+    {
+      "id": "37",
+      "category": "Shoes",
+      "image": "https://cdn.theluxurycloset.com/uploads/opt/products/750x750/luxury-women-gucci-used-shoes-p952797-008.jpg",
+      "title": "Gucci Green Platforms",
+      "description": "Elevate your evening look with these crystal-embellished sandals, featuring delicate straps and a slim stiletto heel. With their sparkling accents and elegant design, they're sure to make a statement at any event.",
+      "price": 4800,
+      "isNew": false,
+      "oldPrice": 5600
+    },
+    {
+      "id": "38",
+      "category": "Jewelry",
+      "image": "https://img.kwcdn.com/product/fancy/85986fc7-ae4e-4767-89ea-4af879ecb613.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp",
+      "title": "Italian Coquette Rings",
+      "description": "Mix and match these stackable rings to create your own unique look, whether worn alone, stacked together, or paired with other rings.",
+      "price": 1900,
+      "isNew": false,
+      "oldPrice": 2300
+    },
+    {
+      "id": "39",
+      "category": "Bags",
+      "image": "https://cdn-images.italist.com/image/upload/t_medium_mobile_dpr_2_q_auto_v_2,f_auto/4c81d018f73f457cc6f3e91b6011ffbe.jpg",
+      "title": "Chiri Maruko Chao",
+      "description": "Minimalist and luxurious, the Chiri Maruko Chao is crafted from buttery soft leather and features a gathered silhouette with a magnetic frame closure. With its understated design and impeccable craftsmanship, it's a timeless investment piece.",
+      "price": 10000,
+      "isNew": false,
+      "oldPrice": 12000
+    }
+  ],
+  "cartItems": [
+    {
+      "id": "2",
+      "category": "Perfumes",
+      "image": "https://puls-img.chanel.com/1702051860451-ccm24mbfooterwrappingdjpg.jpg",
+      "title": "Coco Chanel",
+      "description": " A contemporary twist on a classic fragrance family, this modern chypre features a sophisticated blend of patchouli, oakmoss, and citrus accords. Elegant and refined, it's the perfect choice for those who appreciate timeless sophistication with a contemporary edge.",
+      "price": 6900,
+      "isNew": true,
+      "oldPrice": 7500
+    },
+    {
+      "id": "1",
+      "category": "Bags",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZFu7xWSZS28VjmfXQbr148SmktMnMCAQPg2go8ujkDGbFGV1e0N675uDJiFCWH4JVUU&usqp=CAU",
+      "title": "Von Dutch - Spring Collection",
+      "description": "A cult favorite since the '90s, the Von Dutch Bag is instantly recognizable by its sleek silhouette and iconic FF logo hardware. Crafted from luxurious materials like leather and velvet, it adds a touch of Italian glamour to any ensemble.",
+      "price": 8000,
+      "isNew": false,
+      "oldPrice": 10000
+    }
+  ],
+  "WishList": [
+    {
+      "id": "1",
+      "category": "Bags",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZFu7xWSZS28VjmfXQbr148SmktMnMCAQPg2go8ujkDGbFGV1e0N675uDJiFCWH4JVUU&usqp=CAU",
+      "title": "Von Dutch - Spring Collection",
+      "description": "A cult favorite since the '90s, the Von Dutch Bag is instantly recognizable by its sleek silhouette and iconic FF logo hardware. Crafted from luxurious materials like leather and velvet, it adds a touch of Italian glamour to any ensemble.",
+      "price": 8000,
+      "isNew": false,
+      "oldPrice": 10000
+    },
+    {
+      "id": "2",
+      "category": "Perfumes",
+      "image": "https://puls-img.chanel.com/1702051860451-ccm24mbfooterwrappingdjpg.jpg",
+      "title": "Coco Chanel",
+      "description": " A contemporary twist on a classic fragrance family, this modern chypre features a sophisticated blend of patchouli, oakmoss, and citrus accords. Elegant and refined, it's the perfect choice for those who appreciate timeless sophistication with a contemporary edge.",
+      "price": 6900,
+      "isNew": true,
+      "oldPrice": 7500
+    },
+    {
+      "id": "3",
+      "category": "Shoes",
+      "image": "https://assetsprx.matchesfashion.com/img/1519077/4/1300.jpg",
+      "title": "Prada Milano Wedge Heels",
+      "description": "Make a statement with these edgy cutout booties, featuring a peep-toe design and a stacked block heel. With their unique silhouette and modern aesthetic, they're sure to turn heads wherever you go.",
+      "price": 4500,
+      "isNew": true,
+      "oldPrice": 6600
+    },
+    {
+      "id": "40",
+      "category": "Jewelry",
+      "image": "https://a.1stdibscdn.com/victorian-scottish-agate-and-gold-locket-bracelet-for-sale/1121189/j_96094921591203255923/9609492_master.jpg",
+      "title": "Victorian Scottish Agate and Gold Locket Bracelet",
+      "description": "Tell your story with a charm bracelet adorned with meaningful charms and symbols that reflect your personal style and experiences.",
+      "price": 3100,
+      "isNew": false,
+      "oldPrice": 4000
+    }
+  ]
+}
